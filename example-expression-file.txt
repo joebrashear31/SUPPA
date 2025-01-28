@@ -1,0 +1,4 @@
+sample1 sample2 sample3 sample4
+transcript1 <expression>  <expression>  <expression>  <expression>
+transcript2 <expression>  <expression>  <expression>  <expression>
+transcript3 <expression>  <expression>  <expression>  <expression>
