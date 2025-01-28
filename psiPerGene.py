@@ -46,7 +46,7 @@ def expression_reader(exp_file):
     with open(exp_file, 'r') as handle:
         first_line = nextel(handle).strip()
         for line in handle:
-            line = line.strip().split('\t')
+            line = line.strip().split(',')
             expressions[line[0]] = [float(xp) for xp in line[1:]]
     return expressions, first_line
 
