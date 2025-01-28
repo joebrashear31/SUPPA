@@ -1,5 +1,6 @@
 *.gtf
 *.csv
+*.tsv
 *.ioe
 *.ioi
 *.psi
